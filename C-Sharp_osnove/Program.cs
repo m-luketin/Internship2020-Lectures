@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Globalization;
 using System.Linq;
+using System.Text;
 
 namespace C_Sharp_osnove
 {
@@ -118,7 +120,10 @@ namespace C_Sharp_osnove
             //18
             var myTuple = new Tuple<string, string>("srebrni", "Opel");
 
-            var carBrand = myTuple.Item2;
+            Console.WriteLine(myTuple.Item1);
+
+            var myNamedTuple = (Color: "srebrni", Brand: "Opel");
+            Console.WriteLine(myNamedTuple.Color);
 
             //19
             var officeObjects = new Dictionary<string, int>()
@@ -144,6 +149,17 @@ namespace C_Sharp_osnove
             }
 
             return reversedString;
+        }
+        static string ReverseStringProperly(string stringToReverse)
+        {
+            var reversedString = new StringBuilder("");
+
+            for (int i = stringToReverse.Length - 1; i >= 0; i--)
+            {
+                reversedString.Append(stringToReverse[i]);
+            }
+
+            return reversedString.ToString();
         }
 
         //19
