@@ -1,0 +1,13 @@
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\bin\Debug\netcoreapp3.1\Osnove OOP.exe
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\bin\Debug\netcoreapp3.1\Osnove OOP.deps.json
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\bin\Debug\netcoreapp3.1\Osnove OOP.runtimeconfig.json
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\bin\Debug\netcoreapp3.1\Osnove OOP.runtimeconfig.dev.json
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\bin\Debug\netcoreapp3.1\Osnove OOP.dll
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\bin\Debug\netcoreapp3.1\Osnove OOP.pdb
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\obj\Debug\netcoreapp3.1\Osnove OOP.csprojAssemblyReference.cache
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\obj\Debug\netcoreapp3.1\Osnove OOP.AssemblyInfoInputs.cache
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\obj\Debug\netcoreapp3.1\Osnove OOP.AssemblyInfo.cs
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\obj\Debug\netcoreapp3.1\Osnove OOP.csproj.CoreCompileInputs.cache
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\obj\Debug\netcoreapp3.1\Osnove OOP.dll
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\obj\Debug\netcoreapp3.1\Osnove OOP.pdb
+C:\Users\38597\Desktop\Internship2020-Lectures\OOP\Osnove OOP\obj\Debug\netcoreapp3.1\Osnove OOP.genruntimeconfig.cache
