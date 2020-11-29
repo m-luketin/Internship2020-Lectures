@@ -37,12 +37,18 @@ namespace Osnove_OOP
             //Console.WriteLine(someNumber);
 
             var referenceType = new Student("Marko", "Kovac", "");
-            var copyOfReferenceType = referenceType;
+            var valueType = 5;
 
-            copyOfReferenceType.AttendedCollege = "FESB";
+            ChangeTypes(referenceType, valueType);
 
             Console.WriteLine(referenceType.AttendedCollege);
-            Console.WriteLine(copyOfReferenceType.AttendedCollege);
+            Console.WriteLine(valueType);
+        }
+
+        public static void ChangeTypes(Student studentToChange, int intToChange)
+        {
+            studentToChange.AttendedCollege = "FESB";
+            intToChange = 1;
         }
     }
 }
